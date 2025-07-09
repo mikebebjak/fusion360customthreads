@@ -10,4 +10,12 @@ On my PC the path was: C:\Users\mike_\AppData\Local\Autodesk\webdeploy\productio
 
 When I added my XML I was able to see it populate in the Thread tool in Fusion and it worked great!
 
-XML file is attached as well as the modified Kirkland maple syrup cap that lets a lot less syrup through!
+XML file is attached as well as the modified Kirkland maple syrup cap that lets a lot less syrup through.
+
+Below is the original red lid and the modified lid with a tighter spout. Enjoy wasting less syrup! :)
+
+![image](https://github.com/user-attachments/assets/0c530fda-c6da-47a4-83ac-c2632b64099a)
+
+![image](https://github.com/user-attachments/assets/f1914e2b-fc93-4a0b-aa1a-2657c93ab008)
+
+![image](https://github.com/user-attachments/assets/7d0e774c-b5b7-4a08-b77d-1eae153bdcac)
