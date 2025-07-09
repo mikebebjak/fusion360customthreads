@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ThreadType>
+  <Name>GPI</Name>
+  <CustomName>GPI 38-400</CustomName>
+  <Unit>in</Unit>
+  <Angle>60</Angle>
+  <SortOrder>18</SortOrder>
+
+  <ThreadSize>
+    <Size>38-400</Size>
+    <Designation>
+      <ThreadDesignation>1.4960-16 GPI</ThreadDesignation>
+      <CTD>1.4960</CTD>
+      <TPI>16</TPI>
+
+      <Thread>
+        <Gender>external</Gender>
+        <Class>2G</Class>
+        <MajorDia>1.4960</MajorDia>
+        <PitchDia>1.4600</PitchDia>
+        <MinorDia>1.4200</MinorDia>
+      </Thread>
+
+      <Thread>
+        <Gender>internal</Gender>
+        <Class>2G</Class>
+        <MajorDia>1.5100</MajorDia>
+        <PitchDia>1.4750</PitchDia>
+        <MinorDia>1.4350</MinorDia>
+      </Thread>
+    </Designation>
+  </ThreadSize>
+</ThreadType>
